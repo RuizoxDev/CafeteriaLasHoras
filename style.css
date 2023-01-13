@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(238, 204, 184);
+}
+
+
+header {
+    color: brown;
+    text-align: center;
+    
+}
+
+hr {
+    color: black;
+    height: 2px;
+}
+
+img{
+    max-width: 200px;
+    max-height: 100px;
+}
+
+.carta {
+    text-align: left;
+    left: 30px;
+}
+
+.cafe {
+    text-align: center;
+}
+
+.contacto {
+    text-align: right;
+}
+
+p {
+    color: brown
+}
+
+.contacto{
+    text-align: center;
+}
